@@ -1,0 +1,1 @@
+This project has a HTML and CSS code along with simple javascript which gives a Hamburger Menu that can toggle on click event.
