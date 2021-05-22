@@ -1,0 +1,1 @@
+This HTML CSS and Javascript files together provides the functionality of toast notification
