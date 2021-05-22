@@ -1,0 +1,1 @@
+This HTML CSS and JavaScripts gives a demo of how an animated text is written in body using javascript
