@@ -1,0 +1,1 @@
+This folder gives the HTML,CSS and javascript files which demos to toggle between dark and light themes.
