@@ -1,0 +1,1 @@
+This folder gives demo of zoom effect of a picture.
