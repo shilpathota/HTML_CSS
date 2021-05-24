@@ -1,0 +1,1 @@
+This Folder gives demo of creating auto corousel using simple CSS and javascript
